@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stevefrankns.github.io/USB-Disk-Security-Software-Review-Download-and-Alternatives/sitemap.xml
